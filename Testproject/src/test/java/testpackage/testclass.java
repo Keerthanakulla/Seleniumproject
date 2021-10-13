@@ -6,6 +6,7 @@ public class testclass {
 		System.out.println("hi I am a tester");
 		System.out.println("helloooooooooooo");
 		System.out.println("heeelllll2232323");
+		System.out.println("I am just a print");
 	}
 
 }
